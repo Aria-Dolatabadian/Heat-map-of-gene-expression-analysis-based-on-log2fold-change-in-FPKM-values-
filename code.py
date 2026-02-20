@@ -1,3 +1,7 @@
+#FPKM: fragments per kilobase of transcript per million fragments mapped reads 
+#Paper link: https://www.sciencedirect.com/science/article/pii/S2667064X26000709?via%3Dihub
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
